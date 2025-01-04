@@ -28,4 +28,13 @@ Instalando bibliotecas necessárioas para trabalhar com o expo
 
 `npx expo install react-native-screens react-native-safe-area-context`
 
-Instalando biblioteca do Bottom Tab Navitagor
+### Instalando biblioteca do Bottom Tab Navitagor
+
+`npm install @react-navigation/bottom-tabs`
+
+### Instalando biblioteca do Drawer Navigator
+
+`npm install @react-navigation/drawer`
+
+`npx expo install react-native-gesture-handler react-native-reanimated`
+
